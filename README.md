@@ -36,7 +36,7 @@ public class HolaMundo {
 ![](./img/istockphoto-1459559904-612x612.jpg)
 > *1.1 "Reflexionar serena, muy serenamente, es mejor que tomar decisiones desesperadas"*
 
-1. Edgar Allan Poe.
+2. Edgar Allan Poe.
 
 <!-- Foto de Edgar Allan Poe -->
 
